@@ -12,10 +12,11 @@ Cztian's Notes
    数据结构&算法/index
    网络/index
    操作系统/index
+   数据库/index
+   分布式/index
    Java/index
    Go/index
    大数据/index
-   区块链/index
    机器学习/index
 
 

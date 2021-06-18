@@ -1,4 +1,4 @@
-Part 5: Go
+Part 7: Go
 ===================
 
 .. toctree::
